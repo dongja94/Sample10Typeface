@@ -32,7 +32,8 @@
         android:layout_below="@+id/textView"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:textSize="40sp" />
+        android:textSize="40sp"
+        android:fontFamily="nanum" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -43,7 +44,8 @@
         android:layout_below="@+id/text_namun"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:textSize="40sp" />
+        android:textSize="40sp"
+        android:fontFamily="noto" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -54,5 +56,6 @@
         android:layout_below="@+id/text_noto"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:textSize="40sp" />
+        android:textSize="40sp"
+        android:fontFamily="roboto" />
 </RelativeLayout>
